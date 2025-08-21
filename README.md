@@ -1,5 +1,7 @@
 Iitizam
-Iitizam is a React application (TypeScript, Tailwind CSS) designed to help manage phone usage during prayer times according to the Ethiopian calendar.
+Iitizam is a React application (TypeScript, Tailwind CSS) designed to help manage phone usage during prayer times according to the Ethiopian calendar. 
+Iitizam hops to help those struggling with praying wether consistently or on time due to mobile phone 
+any contributions especially on the backend is welcomed
 
 Features
 Displays prayer times based on Ethiopian calendar calculations
@@ -11,7 +13,7 @@ Frontend: React, TypeScript
 Styling: Tailwind CSS
 Build tooling (as applicable in your repo): (e.g., Vite / Next.js / CRA)
 Calendar logic: TypeScript utilities (to be implemented as needed)
-Installation
+Installation 
 Clone the repository
 Install dependencies
 bash
