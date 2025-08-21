@@ -4,25 +4,47 @@ Iitizam hops to help those struggling with praying wether consistently or on tim
 any contributions especially on the backend is welcomed
 
 Features
+
+
+
 Displays prayer times based on Ethiopian calendar calculations
+
 Responsive UI built with React and Tailwind CSS
+
+
 Type-safe code with TypeScript
+
 Simple setup and development workflow
+
 Tech Stack
+
 Frontend: React, TypeScript
+
 Styling: Tailwind CSS
-Build tooling (as applicable in your repo): (e.g., Vite / Next.js / CRA)
+
 Calendar logic: TypeScript utilities (to be implemented as needed)
+
 Installation 
+
 Clone the repository
+
 Install dependencies
+
 bash
 npm install
+
 # or
+
 yarn install
+
 Start the development server
+
 bash
+
 npm run dev
+
 # or
+
 yarn dev
+
 Usage
